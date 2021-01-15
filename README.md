@@ -17,6 +17,11 @@ With this project,I came up with most of Answers to the above Questions using Co
 * Finding Angle and Distance made by the centre with Vertical Line
 * Displaying output frames
 
+# Can learn 
+* How to loop back a video - like creating a gif
+* Finding Angle between lines 
+* Using of Saturation
+
 # Results 
 ## Output
 ![](https://github.com/hemanthtv/Movement-Analysis-of-a-Pendulum-using-Opencv-Python/blob/main/Result/ezgif.com-gif-maker.gif)
